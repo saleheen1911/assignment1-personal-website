@@ -1,0 +1,173 @@
+body {
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+    color: dimgray;
+}
+
+img {
+    width: 100%;
+}
+
+.container {
+    width: 90%;
+    margin: 0 auto;
+}
+
+.header-area {
+    height: 150px;
+    padding-right: 00px;
+}
+
+.header-area .main-menu {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-align: right;
+    padding-top: 30px;
+}
+
+.header-area .main-menu li {
+    display: inline;
+    padding: 10px 20px;
+    font-weight: 700;
+}
+
+section {
+    height: 400px;
+    overflow: hidden;
+    margin-bottom: 100px;
+}
+
+.top-banner h2 {
+    font-weight: bold;
+    font-size: 60px;
+    margin: 0;
+    line-height: 70px;
+}
+
+.top-banner p,
+.about p {
+    font-size: 18px;
+    font-weight: 400;
+    margin: 40px 0px;
+}
+
+.hello {
+    color: #363958;
+}
+
+.eugine {
+    color: #FF8367;
+}
+
+.half-width {
+    width: 40%;
+    float: left;
+    padding-left: 5%;
+}
+
+.hire-button {
+    text-decoration: none;
+    padding: 15px 30px;
+    background-image: linear-gradient(0deg, #FF8063, #F46060) ;
+    color: white;
+    border-radius: 5px;
+}
+
+.top-space {
+    padding-top: 50px;
+}
+
+.about h2,
+.project-area h2 {
+    font-weight: 900;
+    font-size: 40px;
+}
+
+.project-area h2 {
+    text-align: center;
+    margin-bottom: 70px;
+}
+
+.project-area {
+    height: 600px;
+}
+
+.latest {
+    color: #F46060;
+}
+
+.work-box {
+    width: 30%; 
+    height: 400px;
+    float: left;
+    margin-left: 3%;
+    box-shadow: 8px 8px 5px #6969691f;
+}
+
+.work-box h3 {
+    color: #363958;
+    font-size: 20px;
+}
+
+.inquiry {
+    height: 170px;
+    width: 60%;
+    margin: 0 auto;
+    background-image: url("shapes/Group_33094_1.png");
+    background-repeat: no-repeat;
+    background-position:center;
+    background-size: cover;
+    border-radius: 20px;
+    margin-bottom: 100px;
+}
+
+.inquiry-text h3 {
+    font-size: 40px;
+    color: white;
+}
+
+.inquiry-text {
+    width: 60%;
+    float: left;
+    padding-left: 10%;
+    padding-top: 20px;
+}
+
+.chat-button {
+    width: 20%;
+    float: left;
+    padding-top: 70px;
+}
+
+.contact-area {
+    text-align: center;
+    height: 200px;
+}
+
+.contact-area img {
+    width: auto;
+    height: 50px;
+}
+
+.contact-area p {
+    font-size: 40px;
+    margin: 0;
+    font-weight: 900;
+    color: #363958;
+}
+
+.social-media ul {
+    margin: 0;
+    padding-top: 20px;
+    text-align: center;
+}
+
+.social-media ul li {
+    display: inline;
+    padding-right: 20px;
+}
+
+.social-media ul li a {
+    font-size: 20px;
+}
